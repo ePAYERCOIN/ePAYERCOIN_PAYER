@@ -1,0 +1,9 @@
+Building ePAYERCOIN
+
+See doc/readme-qt.rst for instructions on building ePAYERCOIN-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ePAYERCOIN.
+
+See doc/build-*.txt for instructions on building ePAYERCOINd,
+the intended-for-services, no-graphical-interface, reference
+implementation of ePAYERCOIN.
